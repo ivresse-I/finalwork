@@ -1,0 +1,30 @@
+.Sub-1{
+width:30%;
+float:right;
+font-family:'Abril Fatface', serif;
+font-size: 18px; 
+}
+.imageContainer{
+display: inline-block;
+position: relative;
+text-align: center;
+}
+.Text-1{
+position: absolute;
+bottom: 650px;
+left: 750px;
+}
+.Text-2{
+position: absolute;
+bottom: 530px;
+left: 745px;
+}
+.Text-3{
+position: absolute;
+bottom: 520px;
+left: 880px;
+}
+a{
+	color:black;
+}
+

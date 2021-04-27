@@ -1,0 +1,63 @@
+html{
+	width: 100vw; 
+	height: 100vh;
+}
+h1{
+text-align: center;
+}
+.Menupage{
+position: absolute;
+bottom: 200px;
+left: 100px;
+}
+body{
+float: left;
+padding: 30px;
+width: 85%;
+height: 400px;
+}
+.Homepage{
+position: absolute;
+right:10px;
+bottom: 650px;
+}
+.A1{
+position: absolute;
+top:280px;
+left:250px;
+}
+.A2{
+position: absolute;
+top:460px;
+left:470px;
+}
+.A3{
+position: absolute;
+top:640px;
+left:250px;
+}
+.A4{
+position: absolute;
+top:820px;
+left:450px;
+}
+.A5{
+position: absolute;
+top:1000px;
+left:200px;
+}
+.A5{
+position: absolute;
+top:1000px;
+left:200px;
+}
+.A6{
+position: absolute;
+top:1180px;
+left:450px;
+}
+.Af{
+position: absolute;
+top:1360px;
+left:200px;
+}
